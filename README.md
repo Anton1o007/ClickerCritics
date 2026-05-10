@@ -2,7 +2,7 @@
   <img 
     src="front-end/public/images/clicker_critics_logo.png" 
     width="80"
-    style="margin-right: 15px;"
+    style="margin-right: 0px;"
   >
   ClickerCritics
 </h1>
