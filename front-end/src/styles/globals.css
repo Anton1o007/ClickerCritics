@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'bauhaus-boldregular';
+  src: url('/fonts/bauhaub-webfont.woff2') format('woff2'),
+       url('/fonts/bauhaub-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'proxima-nova-regular';
+  src: url('/fonts/proxima-nova-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'proxima-nova-bold';
+  src: url('/fonts/proxima-nova-bold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'proxima-nova-black';
+  src: url('/fonts/proxima-nova-black.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'proxima-nova-condensed-bold';
+  src: url('/fonts/proxima-nova-condensed-bold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'proxima-nova-extrabold';
+  src: url('/fonts/proxima-nova-extrabold.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+body {
+    overflow-x: hidden;
+    max-width: 100vw;
+    font-family: 'proxima-nova-regular', sans-serif;
+  }
+
+a {
+  color: inherit;
+  text-decoration: none;
+  }
