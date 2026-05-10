@@ -1,4 +1,7 @@
-# ClickerCritics
+<p align="center">
+  <img src="front-end/public/images/clicker_critics_logo.png" width="50" valign="middle">
+  <span style="font-size: 32px;"><strong>ClickerCritics</strong></span>
+</p>
 
 ClickerCritics es una plataforma web de crítica y descubrimiento de videojuegos. Permite explorar catálogos de juegos, publicar críticas con puntuación, gestionar listas personales (juegos jugados y wishlist) y calcular rankings con ponderación configurable entre valoraciones de usuarios y profesionales.
 
